@@ -1,0 +1,37 @@
+{
+	"profile": {
+		"img": "images/profile pic.jpg",
+		"name": "nikil gupta",
+		"roll": "1245",
+		"inistute": "pragati engineering collage",
+		"place": "rajahmundry"
+	},
+	"carrier": {
+		"info": "to secure a job in a company to explore my talents"
+	},
+	"education": [{
+			"Sno": "1",
+			"degree": "b.tech",
+			"inistute": "pragati engineering collage",
+			"yearofpassing": "2020"},
+		{
+			"Sno": "1",
+			"degree": "inter",
+			"inistute": "tirumala junior collage",
+			"yearofpassing": "2016"
+		},
+		{
+			"Sno": "3",
+			"degree": "ssc",
+			"inistute": "st pauls public school",
+			"yearofpassing": "2014"
+		}
+	],
+	"languages":[{
+		"lang":"english"
+	},
+	{
+		"lang":"telugu"
+	}
+]
+}
